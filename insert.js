@@ -1,2 +1,1 @@
-    console.log("hello");
-$('<div>hello</div>').appendTo('body');
+$('<div>' + code_to_inject + '</div>').appendTo('body');
