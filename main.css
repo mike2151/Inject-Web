@@ -1,0 +1,21 @@
+body {
+    min-width:500px;
+}
+
+.btn {
+  background: #57bcff;
+  font-family: Arial;
+  color: #ffffff;
+  border-radius: 2em;
+  font-size: 1.6em;
+  width: 20%;
+  height: 18%
+}
+
+textarea {
+    width: 100%;
+    min-height: 400px;
+    font-size: 2em;
+    background: #F8F8F8;
+    color: #5151c6;
+}
